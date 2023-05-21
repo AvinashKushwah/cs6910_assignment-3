@@ -20,3 +20,7 @@ Note: By simply adjusting the hyperparameter values in the configuration functio
 
 ## Question 2
 This Python notebook includes code that enables the configuration and execution of wandb sweeps.
+
+### Predictions
+- `predictions_vanilla`: Contains all the test data predictions made by the best vanilla model.
+- `predictions_attention`: Contains all the test data predictions made by the best attention model.
