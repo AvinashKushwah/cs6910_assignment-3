@@ -8,7 +8,7 @@ For this assignment, I have drawn inspiration from various sources, including:
 2. The PyTorch Seq2Seq GitHub repository by bentrevett, available at: [GitHub repository](https://github.com/bentrevett/pytorch-seq2seq)
 3. Furthermore, Insightful "Deep learning" lectures on Guvi delivered by Sir.
 
-## Question 1
+## Question 1:
 The file contains code for constructing a sequence-to-sequence (seq2seq) model with an RNN architecture. The model consists of the following layers:
 - An input layer for character embeddings
 - An encoder RNN that sequentially encodes the input character sequence in Latin
@@ -18,9 +18,9 @@ The code is designed to be flexible, allowing the modification of hyperparameter
 
 Note: By simply adjusting the hyperparameter values in the configuration function, you can customize the behavior of the model.
 
-## Question 2
+## Question 2:
 This Python notebook includes code that enables the configuration and execution of wandb sweeps.
 
-### Predictions
+## Predictions:
 - `predictions_vanilla`: Contains all the test data predictions made by the best vanilla model.
 - `predictions_attention`: Contains all the test data predictions made by the best attention model.
