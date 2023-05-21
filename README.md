@@ -24,6 +24,9 @@ This Python notebook includes code that enables the configuration and execution 
 ## Question 4
 This Python notebook is for evaluating accuracy on the test dataset with the best hyperparameters.
 
+## Question 5:
+I have incorporated an attention model into my base seq2seq model within this Python notebook. This model is designed to function with a single encoder and decoder layers.
+
 ## Attention Model
 This Python notebook contains an attention network for my base sequence-to-sequence model, and I will retrain the model using it.
 
